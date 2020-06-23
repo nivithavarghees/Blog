@@ -1,4 +1,4 @@
-<h1 align="center">sajanraj.github.io</h1>
+<h1 align="center">https://nivithavarghees.github.io/Blog/</h1>
 
 ---------------------------------------
 
